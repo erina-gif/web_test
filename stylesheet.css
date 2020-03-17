@@ -1,0 +1,16 @@
+body{
+  font-family: "Avenir Next";
+}
+ul{
+  list-style: none;
+  float: left;
+}
+.header{
+  background-color:rebeccapurple;
+  height: 140px;
+  color: deeppink;
+}
+.header-logo{
+  font-size: 50px;
+  padding:10px;
+}
