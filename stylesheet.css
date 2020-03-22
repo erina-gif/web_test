@@ -5,12 +5,12 @@ body{
 .header{
   background-color:rgb(180, 141, 219);
   height: 70px;
+  padding: 0px;
  
 }
 .header-logo{
   font-size: 60px;
-  padding: 0px;
-
+  float: left;
 }
 li{
   float: left;
