@@ -5,7 +5,7 @@ body{
 .header{
   background-color:rgb(180, 141, 219);
   height: 70px;
-  padding: 0px;
+  padding: 20px;
  
 }
 .header-logo{
@@ -15,6 +15,7 @@ body{
 li{
   float: left;
   list-style: none;
+  padding: 20px;
 }
 
 /* 
